@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "一滴の影響 EPIPHANY at Tokyo Dome 2025.06.15 (Live Version)",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T02:06:20.406449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一滴の影響",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_一滴の影響_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一滴の影響",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/02_一滴の影響_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一滴の影響",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_一滴の影響_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一滴の影響",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_一滴の影響_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "一滴の影響 (album ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/05_一滴の影響_(album_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "一滴の影響 - Itteki No Eikyo",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/06_一滴の影響_-_Itteki_No_Eikyo_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "一滴の影響 (short ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_一滴の影響_(short_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "一滴の影響 (KING'S PARADE 2017 Saitama Super Arena)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/08_一滴の影響_(KING'S_PARADE_2017_Saitama_Super_Arena)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "一滴の影響  (Instrumental)",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/09_一滴の影響_(Instrumental)_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Itteki no Eikyou (一滴の影響) (short ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/10_Itteki_no_Eikyou_(一滴の影響)_(short_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "一滴の影響 - Instrumental",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/11_一滴の影響_-_Instrumental_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一滴の影響 (short ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_一滴の影響_(short_ver.)_UVERworld.txt"
+    }
+  ]
+}
